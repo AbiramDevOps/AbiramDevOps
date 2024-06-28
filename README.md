@@ -35,8 +35,5 @@ Check out my repositories to see what I've been working on, and feel free to con
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
+<a href="https://www.ko-fi.com/abiramdevops"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/abiramdevops"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
