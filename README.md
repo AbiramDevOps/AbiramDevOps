@@ -8,7 +8,7 @@ I'm constantly learning and exploring new technologies, and I love working on pr
 Check out my repositories to see what I've been working on, and feel free to connect with me for collaboration or just a friendly chat about coding! 🚀
 
 * 🌍  I'm based in Europe
-* 🖥️  See my portfolio at [....](http://...)
+* 🖥️  See my portfolio at [...](http://...)
 * ✉️  You can contact me at [satkunaseelanabiram@proton.me](mailto:satkunaseelanabiram@proton.me)
 * 🚀  I'm currently working on [...](http://...)
 * 🧠  I'm learning React, JS
