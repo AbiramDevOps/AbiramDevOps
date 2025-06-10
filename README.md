@@ -11,8 +11,8 @@ Check out my repositories to see what I've been working on, and feel free to con
 * 🌍  I'm based in Europe
 * 🖥️  See my portfolio at [...](http://...)
 * ✉️  You can contact me at [satkunaseelanabiram@proton.me](mailto:satkunaseelanabiram@proton.me)
-* 🚀  I'm currently working on [blender](https://www.blender.org/) & C
-* 🧠  I'm learning React, JS
+* 🚀  I'm currently working on ...
+* 🧠  I'm learning React.js, JS and C
 * 🤝  I'm open to collaborating on AI
 
 ### Skills
