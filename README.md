@@ -9,6 +9,7 @@
   🌍 Based in Europe &nbsp;·&nbsp;
   ✉️ <a href="mailto:satkunaseelanabiram@proton.me">satkunaseelanabiram@proton.me</a> &nbsp;·&nbsp;
   🔗 <a href="https://www.linkedin.com/in/abiram-satkunaseelan-5798932a8">LinkedIn</a>
+  🔗 <a href="https://leetcode.com/u/abiramdevops/">LeetCode</a>
 </p>
 
 ---
