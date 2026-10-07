@@ -22,7 +22,6 @@
 
 ### 🧠 Currently learning
 
-- **Java** (OOP, Spring Boot)
 - **Next.js**
 - **Linux & CTF** via pwn.college
 
